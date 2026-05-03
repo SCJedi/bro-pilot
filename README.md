@@ -1,5 +1,30 @@
 # Bro-Pilot
 
+> 📺  **AS SEEN ON THE INTERNET**
+>
+> Like GitHub Copilot? Then you'll **LOVE** Bro-Pilot.* From the people who brought you *typing things into terminals* and *staring at your own code at 2 a.m.*, comes a revolutionary new way to be told what your brother would do — without having to interrupt your brother.
+>
+> | | 🤖 GitHub Copilot | 👊 SCJedi Bro-Pilot |
+> |---|:---:|:---:|
+> | Autocompletes your code | ✅ | ❌ (use Copilot for that, dummy) |
+> | Tells you the *next move* | ❌ | ✅ |
+> | Calls you out when you're avoiding the hard thing | ❌ | ✅✅✅ |
+> | Will be polite about your bad ideas | ✅ | ❌ |
+> | Costs $19/month | 💸 | 🆓 |
+> | Comes with **48 distilled life heuristics** | ❌ | ✅ |
+> | Knows when to tell you to **just ship it already** | ❌ | ✅ |
+> | Has a brother named Eric | 😢 ❌ | 😎 ✅ |
+> | Will judge you *(lovingly)* | ❌ | ✅ |
+> | Replaces your therapist | 🚫 LOL no | 🚫 also no |
+>
+> **CALL NOW!** ~~Operators are standing by.~~ Actually just type `git clone` and leave us alone.
+>
+> 🔥 **First 1,000,000 users get Bro-Pilot 100% FREE!** *Limited-time offer ends never.* 🔥
+>
+> ⚠️ *\* Bro-Pilot is not a substitute for a real brother. If symptoms of stall persist longer than 4 hours, consult an actual brother. Bro-Pilot does not assume liability for shipped code, abandoned side projects, or sudden urges to commit and push. Heuristics may vary by builder. Past performance does not guarantee future stallouts. Not available in stores. Some assembly required (it's a folder; you copy it).*
+
+---
+
 A pocket advisor for when you're stuck mid-build. *"What would my brother do right now?"* — without having to interrupt him.
 
 It's a [Claude Code](https://docs.claude.com/en/docs/claude-code) skill that channels an experienced systems-thinking builder. When you're cycling on a problem, can't pick a next move, or have been at it for hours and aren't sure you're thinking clearly anymore, you type one command and Claude walks you through a structured response: diagnose what kind of stall this is, name one concrete next move, cite the principle behind it, flag the trap you're about to fall into.
